@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = ./client/
+	url = https://github.com/raphael-brand/meteor-react-client.git
+[submodule "server"]
+	path = ./server/
+	url = https://github.com/raphael-brand/meteor-server.git
